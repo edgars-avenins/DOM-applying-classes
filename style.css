@@ -17,8 +17,24 @@ div {
   background-color: #eee;
 }
 
+button {
+  padding-top: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 5px;
+  color: blue;
+}
+
 .blue {
   background-color: blue;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
 }
 
 .invisible {
